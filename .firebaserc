@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "dhitaadh"
+  },
+  "targets": {
+    "dhitaadh": {
+      "hosting": {
+        "dhita1": [
+          "dhitaadh"
+        ],
+        "dhita2": [
+          "dhitadh"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
